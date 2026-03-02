@@ -10,3 +10,9 @@ In this repository we have provided some of the resources and links we shared du
 - [Context Engineering](https://intuitionlabs.ai/articles/what-is-context-engineering)
 - [Three Paradoxes of AI-assisted Engineering](https://www.juxt.pro/blog/three-paradoxes/)
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/)
+
+## Resources
+
+- [Sample Prompts](/resources/sample-prompts.md)
+- [Sample Testing Context](/resources/sample-testing-context.md)
+- [Context Structuring](/resources/context-structuring.md)
